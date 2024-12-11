@@ -50,5 +50,37 @@ We’d love to hear your thoughts about the game! If you have any feedback or ru
 ## License
 This project is licensed under the MIT License. Feel free to modify and share the game with proper attribution.
 
+## What I Learned and Implemented
+
+During the development of **AM Games - Birdy**, I applied the following concepts and techniques:
+
+### Unity Topics
+1. **Unity Engine Basics**: Gained familiarity with Unity’s UI and workflow.
+2. **GameObjects and Components**: Created and managed GameObjects and attached components.
+3. **Scenes and Assets**: Managed scenes and imported assets to design levels.
+4. **Unity Physics**: Used Rigidbody and Colliders for realistic bird and pipe interactions.
+5. **Animation**: Designed simple animations using Animator Controller and keyframes.
+6. **UI Systems**: Implemented score counters and retry buttons using Unity’s UI systems.
+7. **Scripting in Unity**: Leveraged MonoBehaviour methods like `Update()` for game mechanics.
+8. **Input Handling**: Enabled bird control using keyboard and mobile touch inputs.
+9. **Prefabs and Instantiation**: Utilized prefabs to dynamically generate pipes.
+10. **Audio in Unity**: Added sound effects for flapping and collisions.
+11. **Lighting and Rendering**: Adjusted lighting for vibrant visuals.
+12. **Debugging and Optimization**: Debugged gameplay and optimized performance.
+13. **Build Settings and Deployment**: Built the game for Android and Windows platforms.
+
+### C# Topics
+1. **Syntax and Basics**: Wrote efficient and readable C# scripts.
+2. **Control Flow**: Used loops and conditionals for gameplay logic.
+3. **Methods and Functions**: Modularized code into reusable methods.
+4. **Object-Oriented Programming**: Designed scripts with principles like encapsulation and inheritance.
+5. **Collections**: Utilized Lists to manage pipes and game objects.
+6. **Events and Delegates**: Created event-driven systems for score updates.
+7. **Coroutines**: Implemented coroutines for timed object spawning.
+8. **Exception Handling**: Managed runtime errors gracefully.
+
+This project allowed me to solidify these foundational topics while implementing them in a practical game development scenario.
+
 Enjoy playing **AM Games - Birdy** and have fun!
+
 
